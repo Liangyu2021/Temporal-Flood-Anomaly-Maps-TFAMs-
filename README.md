@@ -1,1 +1,2 @@
-# Temporal-Flood-Anomaly-Maps-TFAMs-
+# Temporal-Flood-Anomaly-Maps
+We propose a TCEV-guided temporal deep learning method for SAR flood anomaly mapping. The proposed method integrates temporal feature learning from mul-ti-temporal SAR observations with pixel-wise extreme-event characterization derived from TCEV, enabling flood-related anomalies to be identified according to their his-torical rarity rather than instantaneous signal differences. By combining statistical knowledge of extreme events with data-driven learning, the framework provides an interpretable approach for SAR flood anomaly mapping beyond conventional binary flood detection.
